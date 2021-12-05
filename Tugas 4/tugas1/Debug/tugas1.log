@@ -1,8 +1,0 @@
-﻿  Demo.cpp
-D:\Recovery\GK\TugasGKcopy\vs\tugas1\Demo.cpp(422,2): warning C4305: 'initializing': truncation from 'double' to 'float'
-D:\Recovery\GK\TugasGKcopy\vs\tugas1\Demo.cpp(655,2): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
-D:\Recovery\GK\TugasGKcopy\vs\tugas1\Demo.cpp(741,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-D:\Recovery\GK\TugasGKcopy\vs\tugas1\Demo.cpp(743,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-D:\Recovery\GK\TugasGKcopy\vs\tugas1\Demo.cpp(752,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-D:\Recovery\GK\TugasGKcopy\vs\tugas1\Demo.cpp(754,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-  tugas1.vcxproj -> D:\Recovery\GK\TugasGKcopy\vs\Debug\Tugasgk.exe
